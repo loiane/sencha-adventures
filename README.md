@@ -10,6 +10,7 @@
 - [Documentation and Guides](http://docs.sencha.com/)
 - [Examples](http://examples.sencha.com/extjs/6.0.0/examples/)
 - [Forum](https://www.sencha.com/forum/)
+- [Sencha Videos](https://vimeo.com/sencha)
 
 ### Tools
 - [Sencha Architect](https://www.sencha.com/products/architect/#overview)
