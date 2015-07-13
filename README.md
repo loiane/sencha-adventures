@@ -31,6 +31,10 @@ TODO
 - [How to imporve your Sencha Code while working in large teams?](http://www.ladysign-apps.com/developer/how-to-improve-your-sencha-code-while-working-in-large-teams/) by @ladysign
 - [Coding guidelines for the ExtJS developers](http://blogs.walkingtree.in/2015/03/21/coding-guidelines-for-the-extjs-developers/) by @ladysign
 
+##### Fashion Theming
+- [Fashion: Blazing Fast Theming For Ext JS](Fashion: Blazing Fast Theming For Ext JS) by @sencha
+- [How to Style Apps with Fashion in Ext JS 6](https://www.sencha.com/blog/how-to-style-apps-with-fashion-in-ext-js-6/) by @sencha
+
 ##### Examples
 
 List of examples
