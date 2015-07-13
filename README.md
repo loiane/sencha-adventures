@@ -66,7 +66,7 @@ List of examples
 - [Image Upload using Ext JS TinyMCE editor](http://blogs.walkingtree.in/2015/05/28/image-upload-using-ext-js-tinymce-editor/) by @walkingtree
 
 ## Other languages
-- [Portuguese](https://github.com/loiane/sencha-adventures/blob/master/README-PTBR.md)
+- [Portuguese Brazil](https://github.com/loiane/sencha-adventures/blob/master/README-pt_BR.md)
 
 ## Missing something?
 
