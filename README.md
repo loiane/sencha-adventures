@@ -9,11 +9,21 @@
 - [GPL v3](https://www.sencha.com/legal/GPL/)
 - [Documentation and Guides](http://docs.sencha.com/)
 - [Examples](http://examples.sencha.com/extjs/6.0.0/examples/)
+- [Forum](https://www.sencha.com/forum/)
 
 ### Tools
 - [Sencha Architect](https://www.sencha.com/products/architect/#overview)
 - [Sencha Cmd](https://www.sencha.com/products/extjs/#sencha-cmd)
 - [IntelliJ/Webstorm plugin](https://plugins.jetbrains.com/plugin/7740?pr=phpStorm)
+- [Sencha Fiddle](https://fiddle.sencha.com)
+- [Sencha Inspector](https://www.sencha.com/blog/sencha-inspector-early-access-is-available/)
+
+##### Browser Plugins
+- [App Inspector - Chrome](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae?hl=en)
+- [Illuminations for Developers - Firefox](http://www.illuminations-for-developers.com/)
+
+##### Testing Tools
+- [Siesta](http://www.bryntum.com/products/siesta/) by @bryntum
 
 ### Presentations
 TODO
