@@ -1,15 +1,21 @@
 # Sencha Adventures
-A collection of articles, videos and presentations about Sencha frameworks in English.
-For other languages, [please see below](https://github.com/loiane/sencha-adventures#other-languages).
+- A collection of articles, videos and presentations about Sencha frameworks in English.
+- For other languages, [please see below](https://github.com/loiane/sencha-adventures#other-languages).
 
 ## Ext JS 6
 
 ### Getting Started
+- [Download](https://www.sencha.com/products/extjs/)
+- [GPL v3](https://www.sencha.com/legal/GPL/)
+- [Documentation and Guides](http://docs.sencha.com/)
+- [Examples](http://examples.sencha.com/extjs/6.0.0/examples/)
 
-TODO
+### Tools
+- [Sencha Architect](https://www.sencha.com/products/architect/#overview)
+- [Sencha Cmd](https://www.sencha.com/products/extjs/#sencha-cmd)
+- [IntelliJ/Webstorm plugin](https://plugins.jetbrains.com/plugin/7740?pr=phpStorm)
 
 ### Presentations
-
 TODO
 
 ### Articles
