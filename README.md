@@ -16,7 +16,6 @@ TODO
 ##### Tutorials
 - [Create great looking Enterprise Dashboards using Sencha Ext JS 6](http://blogs.walkingtree.in/2015/04/28/create-great-looking-enterprise-dashboards-using-sencha-ext-js-6/) by @walkingtree
 - [ExtJS 6: Getting your Controllers to talk to one another](https://medium.com/twelve-foot-guru/extjs-6-getting-your-controllers-to-talk-to-one-another-863189cc1d56) by @bryan_p_johnson
-- [Ext JS: Trabalhando com Data Binding](http://wemersonjanuario.com.br/2015/06/10/ext-js-trabalhando-com-data-binding/) by [@januariocoder](https://twitter.com/januariocoder)
 
 ##### Cmd
 - [Running multiple Sencha Cmd Versions (for example to support Sencha Architect)](http://www.ladysign-apps.com/developer/running-multiple-sencha-cmd-versions-for-example-to-support-sencha-architect/) by @ladysign
