@@ -1,5 +1,6 @@
 # Sencha Adventures
-A collection of articles, videos and presentations about Sencha frameworks
+A collection of articles, videos and presentations about Sencha frameworks in English.
+For other languages, [please see below](https://github.com/loiane/sencha-adventures#otherlanguages).
 
 ## Ext JS 6
 
@@ -47,6 +48,9 @@ List of examples
 
 ####### File Upload
 - [Image Upload using Ext JS TinyMCE editor](http://blogs.walkingtree.in/2015/05/28/image-upload-using-ext-js-tinymce-editor/) by @walkingtree
+
+## Other languages
+- [Portuguese](https://github.com/loiane/sencha-adventures/blob/master/README-PTBR.md)
 
 ## Missing something?
 
