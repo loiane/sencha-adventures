@@ -32,7 +32,7 @@ TODO
 - [Coding guidelines for the ExtJS developers](http://blogs.walkingtree.in/2015/03/21/coding-guidelines-for-the-extjs-developers/) by @ladysign
 
 ##### Fashion Theming
-- [Fashion: Blazing Fast Theming For Ext JS](Fashion: Blazing Fast Theming For Ext JS) by @sencha
+- [Fashion: Blazing Fast Theming For Ext JS](https://www.sencha.com/blog/fashion-blazing-fast-theming-for-ext-js/) by @sencha
 - [How to Style Apps with Fashion in Ext JS 6](https://www.sencha.com/blog/how-to-style-apps-with-fashion-in-ext-js-6/) by @sencha
 
 ##### Examples
