@@ -4,11 +4,9 @@ Somente Pt-BR
 ## Ext JS 6
 
 ### Iniciando
-
-TODO
+- [Fórum brasileiro](http://extjs.com.br)
 
 ### Apresentações
-
 TODO
 
 ### Artigos
