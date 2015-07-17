@@ -28,6 +28,7 @@
 
 ### Presentations
 - [Material Design for ExtJS](https://speakerdeck.com/steffenhiller/materializing-ext-js) by @steffen
+- [Advance Theming with Sencha Fashion](https://speakerdeck.com/steffenhiller/materializing-ext-js) by @ladysign
 
 ### Github Repos
 - [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
