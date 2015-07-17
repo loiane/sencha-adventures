@@ -27,7 +27,7 @@
 - [Siesta](http://www.bryntum.com/products/siesta/) by @bryntum
 
 ### Presentations
-TODO
+- [Material Design for ExtJS](https://speakerdeck.com/steffenhiller/materializing-ext-js) by @steffen
 
 ### Articles
 
