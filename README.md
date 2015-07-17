@@ -29,6 +29,9 @@
 ### Presentations
 - [Material Design for ExtJS](https://speakerdeck.com/steffenhiller/materializing-ext-js) by @steffen
 
+### Github Repos
+- [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
+
 ### Articles
 
 ##### Tutorials
