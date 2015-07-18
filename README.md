@@ -30,6 +30,11 @@
 - [Material Design for ExtJS](https://speakerdeck.com/steffenhiller/materializing-ext-js) by @steffen
 - [Advance Theming with Sencha Fashion](https://speakerdeck.com/steffenhiller/materializing-ext-js) by @ladysign
 - [SenchaCon Roadshow 2015 - Sencha Ext JS 6](http://www.slideshare.net/stoe288/sencha-ext-js-6) by @stoe288
+- [Smaller is better](http://www.slideshare.net/stoe288/senchacon-roadshow-2015-smaller-is-better) by @stoe288
+- [Deploying and Managing Applications with Sencha Space](http://www.slideshare.net/stoe288/senchacon-roadshow-2015-view-models-and-binding) by @stoe288
+- [Sencha Plugin & Tools](http://www.slideshare.net/stoe288/sencha-plugin-tools) by @stoe288
+- [Debug your apps with Google Chrome and Sencha](http://www.slideshare.net/stoe288/debug-your-apps) by @stoe288
+- [View models and Binding](http://www.slideshare.net/stoe288/view-models-and-binding) by @stoe288
 
 ### Github Repos
 - [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
