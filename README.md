@@ -35,6 +35,12 @@
 - [Sencha Plugin & Tools](http://www.slideshare.net/stoe288/sencha-plugin-tools) by @stoe288
 - [Debug your apps with Google Chrome and Sencha](http://www.slideshare.net/stoe288/debug-your-apps) by @stoe288
 - [View models and Binding](http://www.slideshare.net/stoe288/view-models-and-binding) by @stoe288
+- [ExtJS 6: one framework for all devices](https://speakerdeck.com/olgapetrova/extjs-6-one-framework-for-all-devices) by Olga
+- [Ext JS 6 - From desktops to smartphones](https://speakerdeck.com/savelee/sandeep-ext-js-6-from-desktops-to-smartphones) by Sandeep
+- [ExtJS6 - Behind closed doors ](https://speakerdeck.com/savelee/extjs6-behind-closed-doors) by @ladysign
+- [Multilingual Applications with Ext JS 5: Overview of native and alternatives solutions](https://speakerdeck.com/savelee/vincent-munier-jnesis-multilingual-applications-with-ext-js-5-overview-of-native-and-alternatives-solutions) by Jnesis
+- [What's new in Ext JS 6](https://speakerdeck.com/savelee/whats-new-in-ext-js-6) by @ladysign
+- [Sencha Power UI : Pivot Grid and App Templates](https://speakerdeck.com/savelee/sandeep-adwankar-sencha-power-ui-pivot-grid-and-app-templates) by Sandeep
 
 ### Github Repos
 - [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
