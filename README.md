@@ -18,6 +18,7 @@
 - [IntelliJ/Webstorm plugin](https://plugins.jetbrains.com/plugin/7740?pr=phpStorm)
 - [Sencha Fiddle](https://fiddle.sencha.com)
 - [Sencha Inspector](https://www.sencha.com/blog/sencha-inspector-early-access-is-available/)
+- [Ext JS Stencils](http://pages.sencha.com/Stencils_LP_1.html)
 
 ##### Browser Plugins
 - [App Inspector - Chrome](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae?hl=en)
