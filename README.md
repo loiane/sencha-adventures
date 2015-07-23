@@ -69,6 +69,8 @@
 ##### Fashion Theming
 - [Fashion: Blazing Fast Theming For Ext JS](https://www.sencha.com/blog/fashion-blazing-fast-theming-for-ext-js/) by @sencha
 - [How to Style Apps with Fashion in Ext JS 6](https://www.sencha.com/blog/how-to-style-apps-with-fashion-in-ext-js-6/) by @sencha
+- [How to Create a Dark Ext JS Theme Part 1](https://www.sencha.com/blog/how-to-create-a-dark-ext-js-theme-part-1/) by @sencha
+- [How to Create a Dark Ext JS Theme Part 2](https://www.sencha.com/blog/how-to-create-a-dark-ext-js-theme-part-2/) by @sencha
 
 ##### Examples
 
