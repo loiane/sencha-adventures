@@ -46,6 +46,7 @@
 ### Github Repos
 - [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
 - [Ext.i18n.Bundle](https://github.com/elmasse/Ext.i18n.Bundle) by @elmasse
+- [ExtJS Packages by Mayflower](https://github.com/mayflower/ExtJsPackages/) by @Mayflower
 
 ### Articles
 
