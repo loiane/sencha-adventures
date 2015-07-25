@@ -83,6 +83,7 @@ List of examples
 
 ####### Grid
 - [Nested Grid in Sencha Ext JS](http://blogs.walkingtree.in/2015/06/30/nested-grid-in-sencha-ext-js/) by @walkingtree
+- [Localizing the row-editor buttons via overrides and Sencha Cmd](http://www.entwicklungsgedanken.de/2015/07/23/localizing-the-row-editor-buttons-via-overrides-and-sencha-cmd/) by @geek0r
 
 ####### List
 - [List and the scrollDock config](https://sencha.guru/2015/07/24/list-scrolldock-config/) by @LikelyMitch
