@@ -89,6 +89,7 @@ List of examples
 
 ####### Charts
 - [Using YQL Finance Data with Sencha Charts](http://blogs.walkingtree.in/2015/05/29/using-yql-finance-data-with-sencha-charts/) by @walkingtree
+- [4 pie charts reacting to 4 different legends together](https://fiddle.sencha.com/#fiddle/r19) by @LikelyMitch
 
 ####### File Upload
 - [Image Upload using Ext JS TinyMCE editor](http://blogs.walkingtree.in/2015/05/28/image-upload-using-ext-js-tinymce-editor/) by @walkingtree
