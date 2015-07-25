@@ -74,6 +74,7 @@
 - [How to Create a Dark Ext JS Theme Part 1](https://www.sencha.com/blog/how-to-create-a-dark-ext-js-theme-part-1/) by @sencha
 - [How to Create a Dark Ext JS Theme Part 2](https://www.sencha.com/blog/how-to-create-a-dark-ext-js-theme-part-2/) by @sencha
 - [Fashionable ExtJS and Web Services](http://twasink.net/2015/07/23/fashionable-extjs-and-web-services/) by @twasink
+- [ExtJS6 and Fashion Live Update demonstration](http://twasink.net/2015/07/24/extjs6-and-fashion-live-update-demonstration/) by @twasink
 
 ##### Examples
 
