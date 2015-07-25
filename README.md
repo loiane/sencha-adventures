@@ -73,6 +73,7 @@
 - [How to Style Apps with Fashion in Ext JS 6](https://www.sencha.com/blog/how-to-style-apps-with-fashion-in-ext-js-6/) by @sencha
 - [How to Create a Dark Ext JS Theme Part 1](https://www.sencha.com/blog/how-to-create-a-dark-ext-js-theme-part-1/) by @sencha
 - [How to Create a Dark Ext JS Theme Part 2](https://www.sencha.com/blog/how-to-create-a-dark-ext-js-theme-part-2/) by @sencha
+- [Fashionable ExtJS and Web Services](http://twasink.net/2015/07/23/fashionable-extjs-and-web-services/) by @twasink
 
 ##### Examples
 
