@@ -84,6 +84,9 @@ List of examples
 ####### Grid
 - [Nested Grid in Sencha Ext JS](http://blogs.walkingtree.in/2015/06/30/nested-grid-in-sencha-ext-js/) by @walkingtree
 
+####### List
+- [List and the scrollDock config](https://sencha.guru/2015/07/24/list-scrolldock-config/) by @LikelyMitch
+
 ####### Charts
 - [Using YQL Finance Data with Sencha Charts](http://blogs.walkingtree.in/2015/05/29/using-yql-finance-data-with-sencha-charts/) by @walkingtree
 
