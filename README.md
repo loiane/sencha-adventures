@@ -80,6 +80,9 @@
 - [Fashionable ExtJS and Web Services](http://twasink.net/2015/07/23/fashionable-extjs-and-web-services/) by @twasink
 - [ExtJS6 and Fashion Live Update demonstration](http://twasink.net/2015/07/24/extjs6-and-fashion-live-update-demonstration/) by @twasink
 
+##### Testing
+- [Testing an Ext JS 6 App Generated with Sencha Cmd](http://www.bryntum.com/blog/testing-an-ext-js-6-app-generated-with-sencha-cmd/) by @bryntum
+
 ##### Examples
 
 List of examples
