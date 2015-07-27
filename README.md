@@ -1,3 +1,5 @@
+<img src="img/extjs-logo.png">
+
 # Sencha Adventures
 - A collection of articles, videos and presentations about Sencha frameworks in English.
 - For other languages, [please see below](https://github.com/loiane/sencha-adventures#other-languages).
