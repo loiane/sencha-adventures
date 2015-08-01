@@ -113,6 +113,9 @@ List of examples
 ####### Menus
 - [ExtJs: Custom Responsive Tab Menu with ResponsiveConfig](https://mazipanneh.wordpress.com/2015/07/30/extjs-custom-responsive-tab-menu-with-responsiveconfig/) by @Maz_Ipan
 
+####### Cmd
+- [How to check if app is running development or production mode/build?](https://www.sencha.com/forum/showthread.php?303805) by Sencha Forum
+
 ## Other languages
 - [Portuguese Brazil](https://github.com/loiane/sencha-adventures/blob/master/README-pt_BR.md)
 
