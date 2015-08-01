@@ -82,6 +82,7 @@
 
 ##### Testing
 - [Testing an Ext JS 6 App Generated with Sencha Cmd](http://www.bryntum.com/blog/testing-an-ext-js-6-app-generated-with-sencha-cmd/) by @bryntum
+- [Testing EXTJS with Selenium using C#](http://blog.dmbcllc.com/testing-extjs-with-selenium-using-c/) by @davembush
 
 ##### Examples
 
