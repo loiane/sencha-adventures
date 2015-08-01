@@ -59,6 +59,9 @@
 - [Localization of Ext Applications](http://extjs.eu/localization-of-ext-applications/) by @saki
 - [Upgrading an Ext JS 5.1 app to Ext JS 6.0 (beta)](http://www.akawebdesign.com/2015/06/04/upgrading-an-ext-js-5-1-app-to-ext-js-6-0-beta/) by @arthurakay
 
+##### Best practices
+- [Stop setting instances on a class’ prototype](https://sencha.guru/2015/07/29/instances-on-prototype-are-bad/) by @LikelyMitch
+
 ##### Cmd
 - [Running multiple Sencha Cmd Versions (for example to support Sencha Architect)](http://www.ladysign-apps.com/developer/running-multiple-sencha-cmd-versions-for-example-to-support-sencha-architect/) by @ladysign
 - [Java Heap Exception when using Sencha Cmd](http://www.ladysign-apps.com/developer/java-heap-exception-when-using-sencha-cmd/) by @ladysign
