@@ -49,6 +49,7 @@
 - [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
 - [Ext.i18n.Bundle](https://github.com/elmasse/Ext.i18n.Bundle) by @elmasse
 - [ExtJS Packages by Mayflower](https://github.com/mayflower/ExtJsPackages/) by @Mayflower
+- [Badge mixin for buttons/tabs](https://github.com/whiskeredwonder/Ext.ux.mixin.Badge) by @brianwendt
 
 ### Articles
 
@@ -87,6 +88,9 @@
 ##### Examples
 
 List of examples
+
+####### Buttons and Tabs
+- [Badge mixin for buttons/tabs](https://www.sencha.com/forum/showthread.php?303725) by @brianwendt
 
 ####### Grid
 - [Nested Grid in Sencha Ext JS](http://blogs.walkingtree.in/2015/06/30/nested-grid-in-sencha-ext-js/) by @walkingtree
