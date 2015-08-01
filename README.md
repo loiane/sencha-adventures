@@ -102,6 +102,9 @@ List of examples
 ####### File Upload
 - [Image Upload using Ext JS TinyMCE editor](http://blogs.walkingtree.in/2015/05/28/image-upload-using-ext-js-tinymce-editor/) by @walkingtree
 
+####### Menus
+- [ExtJs: Custom Responsive Tab Menu with ResponsiveConfig](https://mazipanneh.wordpress.com/2015/07/30/extjs-custom-responsive-tab-menu-with-responsiveconfig/) by @Maz_Ipan
+
 ## Other languages
 - [Portuguese Brazil](https://github.com/loiane/sencha-adventures/blob/master/README-pt_BR.md)
 
