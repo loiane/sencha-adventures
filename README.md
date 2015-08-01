@@ -58,6 +58,7 @@
 - [ExtJS 6: Getting your Controllers to talk to one another](https://medium.com/twelve-foot-guru/extjs-6-getting-your-controllers-to-talk-to-one-another-863189cc1d56) by @bryan_p_johnson
 - [Localization of Ext Applications](http://extjs.eu/localization-of-ext-applications/) by @saki
 - [Upgrading an Ext JS 5.1 app to Ext JS 6.0 (beta)](http://www.akawebdesign.com/2015/06/04/upgrading-an-ext-js-5-1-app-to-ext-js-6-0-beta/) by @arthurakay
+- [Using ExtJs with TypeScript](https://blorkfish.wordpress.com/2013/01/28/using-extjs-with-typescript/) by @Alexej_Popov
 
 ##### Best practices
 - [Stop setting instances on a class’ prototype](https://sencha.guru/2015/07/29/instances-on-prototype-are-bad/) by @LikelyMitch
