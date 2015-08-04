@@ -118,6 +118,8 @@ List of examples
 
 ## Other languages
 - [Portuguese Brazil](https://github.com/loiane/sencha-adventures/blob/master/README-pt_BR.md)
+- [French](https://github.com/loiane/sencha-adventures/blob/master/README-fr.md)
+- [Spanish](https://github.com/loiane/sencha-adventures/blob/master/README-es.md)
 
 ## Missing something?
 
