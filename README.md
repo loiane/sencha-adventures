@@ -50,6 +50,7 @@
 - [Ext.i18n.Bundle](https://github.com/elmasse/Ext.i18n.Bundle) by @elmasse
 - [ExtJS Packages by Mayflower](https://github.com/mayflower/ExtJsPackages/) by @Mayflower
 - [Badge mixin for buttons/tabs](https://github.com/whiskeredwonder/Ext.ux.mixin.Badge) by @brianwendt
+- [Collection of controls work with Sencha Touch](https://github.com/fpt-software/Material-Controls-for-Sencha-Touch) by @fpt-software
 
 ### Articles
 
