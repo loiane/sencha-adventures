@@ -27,6 +27,7 @@
 - [Illuminations for Developers - Firefox](http://www.illuminations-for-developers.com/)
 
 ##### Testing Tools
+- [Sencha Test](https://www.sencha.com/products/test/) by @sencha
 - [Siesta](http://www.bryntum.com/products/siesta/) by @bryntum
 
 ### Presentations
