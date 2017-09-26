@@ -21,6 +21,7 @@
 - [Sencha Fiddle](https://fiddle.sencha.com)
 - [Sencha Inspector](https://www.sencha.com/blog/sencha-inspector-early-access-is-available/)
 - [Ext JS Stencils](http://pages.sencha.com/Stencils_LP_1.html)
+- [RootCause](https://therootcause.io) Javascript error monitoring tool debugging tool by Bryntum
 
 ##### Browser Plugins
 - [App Inspector - Chrome](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae?hl=en)
@@ -45,6 +46,7 @@
 - [Multilingual Applications with Ext JS 5: Overview of native and alternatives solutions](https://speakerdeck.com/savelee/vincent-munier-jnesis-multilingual-applications-with-ext-js-5-overview-of-native-and-alternatives-solutions) by Jnesis
 - [What's new in Ext JS 6](https://speakerdeck.com/savelee/whats-new-in-ext-js-6) by @ladysign
 - [Sencha Power UI : Pivot Grid and App Templates](https://speakerdeck.com/savelee/sandeep-adwankar-sencha-power-ui-pivot-grid-and-app-templates) by Sandeep
+- [Various Ext JS Related Presentations](https://speakerdeck.com/mats/) by Mats Bryntse
 
 ### Github Repos
 - [Theme: Material Design for ExtJS](https://github.com/steffen/theme-material) by @steffen
